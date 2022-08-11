@@ -1,4 +1,4 @@
-package tests;
+package tests.browserstack;
 
 import com.codeborne.selenide.CollectionCondition;
 import io.appium.java_client.AppiumBy;
